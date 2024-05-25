@@ -97,6 +97,19 @@
 <br/>  
 
 
+#### Top Repositories
+
+
+<a href="https://github.com/MikhailPolishchuk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikhailpolishchuk&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/MikhailPolishchuk/MikhailPolishchuk.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikhailpolishchuk&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/MikhailPolishchuk" target="_blank">
