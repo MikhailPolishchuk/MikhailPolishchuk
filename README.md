@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mikhail, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Mikhail, a full-time backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 
