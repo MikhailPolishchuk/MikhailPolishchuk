@@ -97,14 +97,6 @@
 <br/>  
 
 
-## Github Stats    
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrynaDidkivska&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" align="center" /></div>  
-<div align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrynaDidkivska&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></div> 
-<div align="center">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IrynaDidkivska&theme=tokyonight&hide_border=false" /></div> 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=irynadidkivska&&style=flat-square" align="center" />
-</div> 
 
 ## Connect with me  
 <div align="center">
