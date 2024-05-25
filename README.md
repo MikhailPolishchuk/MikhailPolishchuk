@@ -6,7 +6,17 @@
 ### <div align="center">I'm Mikhail, a full-time backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
+<h3 align="left">👩‍💻  About me</h3>
 
+###
+
+<p align="left"> ⚡ Long road to full-stack development.....</p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <br/>  
 
